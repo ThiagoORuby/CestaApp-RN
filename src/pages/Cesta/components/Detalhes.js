@@ -20,7 +20,6 @@ export default function Detalhes({nome, fazenda, logo, descricao, preco, botao})
 
 const styles = StyleSheet.create({
     nome: {
-        color: 'black',
         fontSize: 26,
         fontWeight: '500',
     },
